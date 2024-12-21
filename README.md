@@ -95,7 +95,8 @@ We have provide a notebook (`inference.ipynb`) for the inference stage.
 ##   ⭐ Samples
 Audio samples, including our SongComposer and other baselines, are available on our [Demo Page](https://pjlab-songcomposer.github.io). The samples span four tasks related to song generation, covering both English and Chinese.
 
-
+### Generate SongComposer output from MIDI
+After many requests, a python program 'midi_to_sc.py' has been included to facilitate this.
 
 <!-- ## ❤️ Acknowledgments -->
 
